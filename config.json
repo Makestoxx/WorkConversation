@@ -1,0 +1,6 @@
+{
+  "OPENAI_API_KEY": "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",
+  "OPENAI_MODEL":   "gpt-4o",
+  "GENESYS_CLIENT_ID":     "1cb7ff52-4a0e-4e90-ba2f-cde6b697832a",
+  "GENESYS_CLIENT_SECRET": "W2fBH-jjR0uSrZ5sH095cXLz_1rm8Qc2f-dZ1D0Kamo"
+}
